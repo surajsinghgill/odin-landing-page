@@ -45,12 +45,6 @@ header {
     color: #F9FAF8;
     margin-bottom: 18px;
 }
-
-.text p, .right-nav {
-    color: #E5E7EB;
-    font-size: 18px;
-}
-
 ul {
     display: flex;
     list-style-type: none;
@@ -59,12 +53,18 @@ ul {
     color: #F9FAF8;
 }
 
+.text p, .right-nav {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
 button {
     background: #3882F6;
     padding: 8px 24px;
     font-size: 18px;
     border-radius: 10px;
     color: #F9FAF8;
+    border: 2px solid white;
 }
 
 .information {
@@ -90,4 +90,53 @@ button {
     justify-content: center;
     gap: 32px;
     margin: 120px;
+}
+.testimonial {
+    background: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.testimonial p {
+    width: 70vw;
+}
+
+.testimonial .user {
+    text-align: right;
+}
+
+.signup-alert {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35vh;
+    color: white;
+}
+.signup-alert div {
+    width: 80vw;
+    height: 15vh;
+    background: #3882F6;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 16px 32px;
+    border-radius: 10px;
+}
+.signup-alert span {
+    font-size: 24px;
+    font-weight: bold;
+}
+footer {
+    background: #1F2937;
+    text-align: center;
+    height: 10vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
