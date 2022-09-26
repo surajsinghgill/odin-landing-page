@@ -1,4 +1,4 @@
-# odin-landing-page
+# odin-landing-page (Apple clone)
 
 #iphone
 Image by <a href="https://pixabay.com/users/monoar_cgi_artist-2240009/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6884673">Monoar Rahman Rony</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6884673">Pixabay</a>
